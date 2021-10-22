@@ -1,0 +1,32 @@
+{
+  "name": "@kur4ge/hexo-dom-modify",
+  "version": "1.0.0",
+  "description": "A hexo plugin is used to modify the generated dom.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kur4ge/hexo-dom-modify.git"
+  },
+  "keywords": [
+    "hexo",
+    "blog",
+    "asset",
+    "delete"
+  ],
+  "author": {
+    "name": "kur4ge",
+    "email": "kur4ge1337@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kur4ge/hexo-dom-modify/issues"
+  },
+  "homepage": "https://github.com/kur4ge/hexo-dom-modify#readme",
+  "dependencies": {
+    "soup": "^0.1.5",
+    "underscore": "^1.8.3"
+  }
+}
